@@ -1,6 +1,6 @@
 # KaggleX_PS
 #This is my final project for the KaggleX program. I performed exploratory data analysis on the PLACES dataset from the CDC.
 
-https://www.cdcfoundation.org/blog/places-provides-local-data-improve-health-us-communities-all-sizes
+Centers for Disease Control and Prevention, National Center for Chronic Disease Prevention and Health Promotion, Division of Population Health. PLACES Data [online]. 2022 [accessed Oct 27 2023].. URL: https://www.cdc.gov/PLACES
 
-https://data.cdc.gov/500-Cities-Places/PLACES-Local-Data-for-Better-Health-County-Data-20/swc5-untb
+https://www.cdcfoundation.org/blog/places-provides-local-data-improve-health-us-communities-all-sizes
